@@ -1,13 +1,14 @@
 # image_pyramid
 <h1> Gaussian And Laplacian Image Pyramids </h1>
-This is an implementation of Gaussian and Laplacian Image Pyramids from coded up from Scratch. 
-
-<p> To run this, place the image you wish to run the Algorithm inside "seed_images", and in the Notebook set the variable "imageName" to that file. </p>
-
 <p> An image pyramid is a multiscale representation of an image. This is achieved by repeatedly smoothing and subsampling the image in order to achieve the desired resolution </p>
 <p align="center">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/4/43/Image_pyramid.svg"/ alt="image pyramid">
 </p>
+
+<p> This is an implementation of Gaussian and Laplacian Image Pyramids from coded up from Scratch. </p>
+
+<p> To run this, place the image you wish to run the Algorithm inside "seed_images", and in the Notebook set the variable "imageName" to that file. </p>
+
 <h3> Sample Input: </h3>
 
 <p align="center">
