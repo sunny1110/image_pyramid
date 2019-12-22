@@ -40,7 +40,7 @@ To run this, place the image you wish to run the Algorithm inside "seed_images",
 
 <h5> Level 1 </h5>
 <p align="center">
-  <img src="results/messi_results/log_pyramid/messi_log_level_0.jpg"/>
+  <img src="results/messi_results/laplacian_pyramid/messi_laplacian_level_0.jpg"/>
 </p>
 
 
