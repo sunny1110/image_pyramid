@@ -11,9 +11,7 @@ To run this, place the image you wish to run the Algorithm inside "seed_images",
 </p>
 
 
-<h3> Results </h3>
-
-<h4> Gaussian Pyramid </h3>
+<h3> Results: Gaussian Pyramid </h4>
 
 <h5> Level 1 </h5>
 <p align="center">
@@ -37,3 +35,30 @@ To run this, place the image you wish to run the Algorithm inside "seed_images",
 <p align="center">
   <img src="results/messi_results/gaussian_pyramid/messi_gaussian_level_3.jpg"/>
 </p>
+
+<h3> Results: Laplacian Pyramid </h4>
+
+<h5> Level 1 </h5>
+<p align="center">
+  <img src="results/messi_results/log_pyramid/messi_log_level_0.jpg"/>
+</p>
+
+
+<h5> Level 2 </h5>
+<p align="center">
+  <img src="results/messi_results/log_pyramid/messi_log_level_1.jpg"/>
+</p>
+
+
+<h5> Level 3 </h5>
+<p align="center">
+  <img src="results/messi_results/log_pyramid/messi_log_level_2.jpg"/>
+</p>
+
+
+<h5> Level 4 </h5>
+<p align="center">
+  <img src="results/messi_results/log_pyramid/messi_log_level_3.jpg"/>
+</p>
+
+
