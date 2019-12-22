@@ -6,7 +6,7 @@ This is an implementation of Gaussian and Laplacian Image Pyramids from coded up
 
 <p> An image pyramid is a multiscale representation of an image. This is achieved by repeatedly smoothing and subsampling the image in order to achieve the desired resolution </p>
 <p align="center">
-<img src = "https://en.wikipedia.org/wiki/Pyramid_(image_processing)#/media/File:Image_pyramid.svg"/ alt="image pyramid">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/4/43/Image_pyramid.svg"/ alt="image pyramid">
 </p>
 <h3> Sample Input: </h3>
 
