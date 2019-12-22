@@ -36,11 +36,11 @@ To run this, place the image you wish to run the Algorithm inside "seed_images",
   <img src="results/messi_results/gaussian_pyramid/messi_gaussian_level_3.jpg"/>
 </p>
 
-<h3> Results: Laplacian Pyramid </h4>
+<h3> Results: Laplacian of Gaussian Pyramid </h4>
 
 <h5> Level 1 </h5>
 <p align="center">
-  <img src="results/messi_results/laplacian_pyramid/messi_laplacian_level_0.jpg"/>
+  <img src="results/messi_results/log_pyramid/messi_log_level_0.jpg"/>
 </p>
 
 
@@ -60,5 +60,34 @@ To run this, place the image you wish to run the Algorithm inside "seed_images",
 <p align="center">
   <img src="results/messi_results/log_pyramid/messi_log_level_3.jpg"/>
 </p>
+
+
+<h3> Results: Difference of Gaussian Pyramid </h4>
+
+<h5> Level 1 </h5>
+<p align="center">
+  <img src="results/messi_results/laplacian_pyramid/messi_laplacian_level_0.jpg"/>
+</p>
+
+<h5> Level 2 </h5>
+<p align="center">
+  <img src="results/messi_results/laplacian_pyramid/messi_laplacian_level_1.jpg"/>
+</p>
+
+<h5> Level 3 </h5>
+<p align="center">
+  <img src="results/messi_results/laplacian_pyramid/messi_laplacian_level_2.jpg"/>
+</p>
+
+<h5> Level 4 </h5>
+<p align="center">
+  <img src="results/messi_results/laplacian_pyramid/messi_laplacian_level_3.jpg"/>
+</p>
+
+<bold><p> PS: Increase Brightness for better visibility of results </p> </bold>
+
+<p> You can read more about Image Pyramids <a href="https://en.wikipedia.org/wiki/Pyramid_(image_processing)"> here</a>.</p>
+<p> You can read more about Gaussian Filters <a href="https://en.wikipedia.org/wiki/Gaussian_filter"> here</a>.</p>
+<p> You can read more about Laplacian and other Edge filters <a href="http://www.aishack.in/tutorials/sobel-laplacian-edge-detectors/"> here</a>.</p>
 
 
